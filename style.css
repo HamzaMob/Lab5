@@ -1,5 +1,5 @@
 body {
-	background: url("./images/northern.jpg")
+	background: url("../images/northern.jpg")
 }
 
 h1 {
@@ -9,8 +9,8 @@ h1 {
 }
 
 img {
-  width: 150px;
-  height: 150px;
+  width: 250px;
+  height: 250px;
 }
 
 table {
