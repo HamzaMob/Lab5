@@ -1,5 +1,8 @@
 body {
-  background: url("northern.jpg")
+  background:black;
+  background-image: url("northern.jpg");
+  text-align: center;
+  font-family: serif;
 }
 
 h1 {
